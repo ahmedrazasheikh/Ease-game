@@ -1,0 +1,11 @@
+#some_div{
+    display: none;
+}
+*{
+    font-size: 16px;
+    color: aliceblue;
+    background-color: royalblue;
+}
+button{
+ margin-bottom: 5px;   
+}
